@@ -90,7 +90,7 @@ scrape_configs:
 ```
 
 ### Install Grafana
-
+![alt text](image.png)
 Use the following commands to install Grafana:
 
 ```
