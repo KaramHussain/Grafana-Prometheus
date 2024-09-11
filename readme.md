@@ -1,7 +1,7 @@
 # Grafana and Prometheus Integration
 
 This repository demonstrates how to set up a Node.js application that exposes metrics to Prometheus and visualizes those metrics using Grafana.
-
+![alt text](node-grafana-promethius.drawio.png)
 ## Repository
 
 The code repository can be found at:
@@ -283,7 +283,3 @@ To integrate Prometheus metrics into an existing Node.js project:
 4. **Configure Prometheus**:
 
    Update your `prometheus.yml` file to include the endpoint of your application.
-
-## License
-
-This project is licensed under the MIT License - see the **LICENSE** file for details.
